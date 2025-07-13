@@ -1,252 +1,330 @@
 [
-    {
-        "id": 1,
-        "first_name": "Karylin",
-        "last_name": "Lalor"
-    },
-    {
-        "id": 2,
-        "first_name": "Ara",
-        "last_name": "Ollier"
-    },
-    {
-        "id": 3,
-        "first_name": "Nettie",
-        "last_name": "Penney"
-    },
-    {
-        "id": 4,
-        "first_name": "Baily",
-        "last_name": "Leasor"
-    },
-    {
-        "id": 5,
-        "first_name": "Cleve",
-        "last_name": "Avison"
-    },
-    {
-        "id": 6,
-        "first_name": "Hy",
-        "last_name": "Beresfore"
-    },
-    {
-        "id": 7,
-        "first_name": "Stephani",
-        "last_name": "Marwood"
-    },
-    {
-        "id": 8,
-        "first_name": "Rowe",
-        "last_name": "Hoffman"
-    },
-    {
-        "id": 9,
-        "first_name": "Lucais",
-        "last_name": "Cianelli"
-    },
-    {
-        "id": 10,
-        "first_name": "Richie",
-        "last_name": "Jenking"
-    },
-    {
-        "id": 11,
-        "first_name": "Savina",
-        "last_name": "Thornhill"
-    },
-    {
-        "id": 12,
-        "first_name": "Alexine",
-        "last_name": "Waren"
-    },
-    {
-        "id": 13,
-        "first_name": "Rafi",
-        "last_name": "Urquhart"
-    },
-    {
-        "id": 14,
-        "first_name": "Merralee",
-        "last_name": "Hazeltine"
-    },
-    {
-        "id": 15,
-        "first_name": "Stefa",
-        "last_name": "Weston"
-    },
-    {
-        "id": 16,
-        "first_name": "Jolie",
-        "last_name": "Dugmore"
-    },
-    {
-        "id": 17,
-        "first_name": "Wilbur",
-        "last_name": "Desborough"
-    },
-    {
-        "id": 18,
-        "first_name": "Dodie",
-        "last_name": "Tonkin"
-    },
-    {
-        "id": 19,
-        "first_name": "Marcia",
-        "last_name": "Garnall"
-    },
-    {
-        "id": 20,
-        "first_name": "Wesley",
-        "last_name": "Horstead"
-    },
-    {
-        "id": 21,
-        "first_name": "Alena",
-        "last_name": "Paulino"
-    },
-    {
-        "id": 22,
-        "first_name": "Carrissa",
-        "last_name": "Simoneau"
-    },
-    {
-        "id": 23,
-        "first_name": "Kassia",
-        "last_name": "Jump"
-    },
-    {
-        "id": 24,
-        "first_name": "Lanae",
-        "last_name": "Cordle"
-    },
-    {
-        "id": 25,
-        "first_name": "Ilka",
-        "last_name": "Whear"
-    },
-    {
-        "id": 26,
-        "first_name": "Linnell",
-        "last_name": "Peachey"
-    },
-    {
-        "id": 27,
-        "first_name": "Ramonda",
-        "last_name": "Sarten"
-    },
-    {
-        "id": 28,
-        "first_name": "Tab",
-        "last_name": "Simecek"
-    },
-    {
-        "id": 29,
-        "first_name": "Aldous",
-        "last_name": "Woloschin"
-    },
-    {
-        "id": 30,
-        "first_name": "Lovell",
-        "last_name": "Habershaw"
-    },
-    {
-        "id": 31,
-        "first_name": "Anastasia",
-        "last_name": "Skain"
-    },
-    {
-        "id": 32,
-        "first_name": "Stanfield",
-        "last_name": "Durand"
-    },
-    {
-        "id": 33,
-        "first_name": "Tessi",
-        "last_name": "Bodiam"
-    },
-    {
-        "id": 34,
-        "first_name": "Jerrine",
-        "last_name": "Birmingham"
-    },
-    {
-        "id": 35,
-        "first_name": "Evvy",
-        "last_name": "Winning"
-    },
-    {
-        "id": 36,
-        "first_name": "Janelle",
-        "last_name": "Stiffell"
-    },
-    {
-        "id": 37,
-        "first_name": "Beatrix",
-        "last_name": "Loweth"
-    },
-    {
-        "id": 38,
-        "first_name": "Regina",
-        "last_name": "Rafe"
-    },
-    {
-        "id": 39,
-        "first_name": "Zedekiah",
-        "last_name": "Denes"
-    },
-    {
-        "id": 40,
-        "first_name": "Zelma",
-        "last_name": "Ferraro"
-    },
-    {
-        "id": 41,
-        "first_name": "Juana",
-        "last_name": "Iskow"
-    },
-    {
-        "id": 42,
-        "first_name": "Elene",
-        "last_name": "McCrystal"
-    },
-    {
-        "id": 43,
-        "first_name": "Robyn",
-        "last_name": "Reisk"
-    },
-    {
-        "id": 44,
-        "first_name": "Nicolais",
-        "last_name": "Utterson"
-    },
-    {
-        "id": 45,
-        "first_name": "Tiler",
-        "last_name": "Syrad"
-    },
-    {
-        "id": 46,
-        "first_name": "Stefania",
-        "last_name": "De La Cote"
-    },
-    {
-        "id": 47,
-        "first_name": "Beaufort",
-        "last_name": "Hawkey"
-    },
-    {
-        "id": 48,
-        "first_name": "Tami",
-        "last_name": "Thomsen"
-    },
-    {
-        "id": 49,
-        "first_name": "Nolie",
-        "last_name": "Woodhead"
-    },
-    {
-        "id": 50,
-        "first_name": "Chucho",
-        "last_name": "Dabnot"
-    }
+  {
+    "id": 1,
+    "first_name": "Karylin",
+    "last_name": "Lalor",
+    "habits": [
+      {
+        "habit_id": 1,
+        "habit_name": "Jogging",
+        "habit_target_frequency": "Daily",
+        "created_at": "2025-07-13T14:50:39.690Z",
+        "checked_dates": [
+          "2025-07-13"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "first_name": "Ara",
+    "last_name": "Ollier",
+    "habits": [
+      {
+        "habit_id": 1,
+        "habit_name": "Meditation",
+        "habit_target_frequency": "Daily",
+        "created_at": "2025-07-13T14:49:46.588Z",
+        "checked_dates": [
+          "2025-07-13"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "first_name": "Nettie",
+    "last_name": "Penney",
+    "habits": [
+      {
+        "habit_id": 1,
+        "habit_name": "Do 30 Pushups",
+        "habit_target_frequency": "Daily",
+        "created_at": "2025-07-13T14:51:36.834Z",
+        "checked_dates": [
+          "2025-07-13"
+        ]
+      },
+      {
+        "habit_id": 2,
+        "habit_name": "Running",
+        "habit_target_frequency": "Daily",
+        "created_at": "2025-07-13T14:51:54.459Z",
+        "checked_dates": [
+          "2025-07-13"
+        ]
+      },
+      {
+        "habit_id": 3,
+        "habit_name": "Read 10 Pages",
+        "habit_target_frequency": "Daily",
+        "created_at": "2025-07-13T14:52:10.387Z",
+        "checked_dates": []
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "first_name": "Baily",
+    "last_name": "Leasor",
+    "habits": [
+      {
+        "habit_id": 1,
+        "habit_name": "Read 20 Pages",
+        "habit_target_frequency": "Daily",
+        "created_at": "2025-07-13T14:52:20.734Z",
+        "checked_dates": []
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "first_name": "Cleve",
+    "last_name": "Avison",
+    "habits": [
+      {
+        "habit_id": 1,
+        "habit_name": "Yoga",
+        "habit_target_frequency": "Daily",
+        "created_at": "2025-07-13T14:52:51.922Z",
+        "checked_dates": [
+          "2025-07-13"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "first_name": "Hy",
+    "last_name": "Beresfore",
+    "habits": [
+      {
+        "habit_id": 1,
+        "habit_name": "Programming",
+        "habit_target_frequency": "Daily",
+        "created_at": "2025-07-13T16:41:10.191Z",
+        "checked_dates": []
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "first_name": "Stephani",
+    "last_name": "Marwood"
+  },
+  {
+    "id": 8,
+    "first_name": "Rowe",
+    "last_name": "Hoffman"
+  },
+  {
+    "id": 9,
+    "first_name": "Lucais",
+    "last_name": "Cianelli"
+  },
+  {
+    "id": 10,
+    "first_name": "Richie",
+    "last_name": "Jenking"
+  },
+  {
+    "id": 11,
+    "first_name": "Savina",
+    "last_name": "Thornhill"
+  },
+  {
+    "id": 12,
+    "first_name": "Alexine",
+    "last_name": "Waren"
+  },
+  {
+    "id": 13,
+    "first_name": "Rafi",
+    "last_name": "Urquhart"
+  },
+  {
+    "id": 14,
+    "first_name": "Merralee",
+    "last_name": "Hazeltine"
+  },
+  {
+    "id": 15,
+    "first_name": "Stefa",
+    "last_name": "Weston"
+  },
+  {
+    "id": 16,
+    "first_name": "Jolie",
+    "last_name": "Dugmore"
+  },
+  {
+    "id": 17,
+    "first_name": "Wilbur",
+    "last_name": "Desborough"
+  },
+  {
+    "id": 18,
+    "first_name": "Dodie",
+    "last_name": "Tonkin"
+  },
+  {
+    "id": 19,
+    "first_name": "Marcia",
+    "last_name": "Garnall"
+  },
+  {
+    "id": 20,
+    "first_name": "Wesley",
+    "last_name": "Horstead"
+  },
+  {
+    "id": 21,
+    "first_name": "Alena",
+    "last_name": "Paulino"
+  },
+  {
+    "id": 22,
+    "first_name": "Carrissa",
+    "last_name": "Simoneau"
+  },
+  {
+    "id": 23,
+    "first_name": "Kassia",
+    "last_name": "Jump"
+  },
+  {
+    "id": 24,
+    "first_name": "Lanae",
+    "last_name": "Cordle"
+  },
+  {
+    "id": 25,
+    "first_name": "Ilka",
+    "last_name": "Whear"
+  },
+  {
+    "id": 26,
+    "first_name": "Linnell",
+    "last_name": "Peachey"
+  },
+  {
+    "id": 27,
+    "first_name": "Ramonda",
+    "last_name": "Sarten"
+  },
+  {
+    "id": 28,
+    "first_name": "Tab",
+    "last_name": "Simecek"
+  },
+  {
+    "id": 29,
+    "first_name": "Aldous",
+    "last_name": "Woloschin"
+  },
+  {
+    "id": 30,
+    "first_name": "Lovell",
+    "last_name": "Habershaw"
+  },
+  {
+    "id": 31,
+    "first_name": "Anastasia",
+    "last_name": "Skain"
+  },
+  {
+    "id": 32,
+    "first_name": "Stanfield",
+    "last_name": "Durand"
+  },
+  {
+    "id": 33,
+    "first_name": "Tessi",
+    "last_name": "Bodiam"
+  },
+  {
+    "id": 34,
+    "first_name": "Jerrine",
+    "last_name": "Birmingham"
+  },
+  {
+    "id": 35,
+    "first_name": "Evvy",
+    "last_name": "Winning"
+  },
+  {
+    "id": 36,
+    "first_name": "Janelle",
+    "last_name": "Stiffell"
+  },
+  {
+    "id": 37,
+    "first_name": "Beatrix",
+    "last_name": "Loweth"
+  },
+  {
+    "id": 38,
+    "first_name": "Regina",
+    "last_name": "Rafe"
+  },
+  {
+    "id": 39,
+    "first_name": "Zedekiah",
+    "last_name": "Denes"
+  },
+  {
+    "id": 40,
+    "first_name": "Zelma",
+    "last_name": "Ferraro"
+  },
+  {
+    "id": 41,
+    "first_name": "Juana",
+    "last_name": "Iskow"
+  },
+  {
+    "id": 42,
+    "first_name": "Elene",
+    "last_name": "McCrystal"
+  },
+  {
+    "id": 43,
+    "first_name": "Robyn",
+    "last_name": "Reisk"
+  },
+  {
+    "id": 44,
+    "first_name": "Nicolais",
+    "last_name": "Utterson"
+  },
+  {
+    "id": 45,
+    "first_name": "Tiler",
+    "last_name": "Syrad"
+  },
+  {
+    "id": 46,
+    "first_name": "Stefania",
+    "last_name": "De La Cote"
+  },
+  {
+    "id": 47,
+    "first_name": "Beaufort",
+    "last_name": "Hawkey"
+  },
+  {
+    "id": 48,
+    "first_name": "Tami",
+    "last_name": "Thomsen"
+  },
+  {
+    "id": 49,
+    "first_name": "Nolie",
+    "last_name": "Woodhead"
+  },
+  {
+    "id": 50,
+    "first_name": "Chucho",
+    "last_name": "Dabnot"
+  }
 ]

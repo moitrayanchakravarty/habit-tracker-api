@@ -100,7 +100,7 @@ app.get("/api/users/:id/habit/streaks", (req, res) => {
         habit_logs: habitLogs
     });
 
-    return res.json(habit);
+    
 });
 
 app.listen(PORT, () => {
